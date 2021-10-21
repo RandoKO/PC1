@@ -24,11 +24,18 @@ Necesitaras las siguientes herramientas para poder ejecutar el proyecto:
 
 ## Ejecutar el proyecto
 Una vez instalados todos los programas necesarios, solo necesitas clonar nuestro repositorio:
-
-  gh repo clone <repo>
-
+```python
+gh repo clone <repo>
+```
 Despues de ello, entra a nuestro proyecto y ejecutalo
-  
-  npm start
+```python
+npm start
+```
 ## Progreso
+
+Cargo | Encargo
+------------ | -------------
+Frontend | Magnus Carisen
+Backend | MVL
+Database | Andrew Tang
   
